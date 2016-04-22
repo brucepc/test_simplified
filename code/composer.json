@@ -1,0 +1,18 @@
+{
+  "name": "brucepc/test_simplified",
+  "description": "jsut a test",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bruce  de Carvalho",
+      "email": "brucepcarvalho@gmail.com"
+    }
+  ],
+  "config": {
+    "bin-dir": "bin"
+  },
+  "require-dev": {
+    "phing/phing": "^2.14"
+  }
+}
